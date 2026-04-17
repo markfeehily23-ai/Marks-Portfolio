@@ -15,7 +15,7 @@ Collaborative Computer Science graduate and Google AI Professional with experien
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,tailwind,js,vue,redux,d3,git,postman,figma" />
 </p>
 
 ### Badges
